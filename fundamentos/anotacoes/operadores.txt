@@ -1,0 +1,15 @@
+== só compara o valor
+=== compara o tipo também
+
+||: Operador “ou”, retorna true caso uma condição seja válida;
+&&: Operador “e”, retorna true somente se todas as condições forem válidas;
+!= e !==: Operadores “não igual” e “estritamente não igual”, utilizados para comparação, da mesma forma que == e === retornam true ou false
+
+Entre outros como:
+
+>=
+<=
+
+" Nome " + " Idade ";
+ou
+`Meu nome é ${nome} e minha idade é ${idade}`;
